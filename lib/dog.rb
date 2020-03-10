@@ -1,3 +1,3 @@
-class Dog(name)
-  name == fido
+class Dog
+  fido.new 
 end 
